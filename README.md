@@ -58,4 +58,4 @@ All queries live in [`online_bookstore_analysis.sql`](online_bookstore_analysis.
 
 ## Author
 
-**Usama Ibrahim** — Actuarial & Data Analytics, Karachi
+**Rimsha Ibrahim** — Aspiring Data Analyst
