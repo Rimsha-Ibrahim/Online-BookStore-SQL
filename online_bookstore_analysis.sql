@@ -2,7 +2,7 @@
    Online Bookstore — SQL Analysis
    Database : OnlineBookstore.db  (SQLite)
    Tables   : Books (500) · Customers (500) · Orders (500)
-   Author   : Usama Ibrahim
+   Author   : Rimsha Ibrahim
    -------------------------------------------------------------
    A walkthrough of the bookstore dataset, from basic retrieval
    to joins, subqueries and date analysis. Each block states the
